@@ -3,7 +3,7 @@ body{
 }
 
 .card img {
-    height: 25rem;
+    height: 20rem;
     object-fit: cover;
     object-position: center center;
 }
