@@ -2,3 +2,8 @@ body{
     background: #BDBDBD;
 }
 
+.card img {
+    height: 20rem;
+    object-fit: cover;
+    object-position: center center;
+}
