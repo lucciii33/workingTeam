@@ -2,15 +2,15 @@ body{
     background: #BDBDBD;
 }
 
+.card {
+    border: none !important;
+}
 .card img {
-    width:22rem;
     height: 13rem;
     object-fit: cover;
     object-position: center center;
 }
 
 body {background-color: white;}
-
-.card-body {height: 201px;}
 
 
