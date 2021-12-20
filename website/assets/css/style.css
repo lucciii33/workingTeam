@@ -9,6 +9,10 @@ body{
     
     padding-top: 45px;
 }
+
+.container.portfolio-container {
+    background-image: none;
+}
 .display-4{
     margin:15px 0px 15px 0px;
     width: auto;
