@@ -1,3 +1,29 @@
 body{
     background: #BDBDBD;
 }
+.container{
+    background: url("../img/bg.jpg") repeat-x;
+    background-size: contain;
+    height: 800px;
+    flex-grow: 1;
+    padding: 0%;
+}
+.display-4{
+    margin: auto;
+    background-color: white;
+    width: auto;
+    font-weight: bold;
+    justify-items: center;
+    text-align: center;
+}
+.lead{
+    margin: auto;
+    background-color: white;
+    width: auto;
+    font-weight: bold;
+    justify-items: center;
+    text-align: center;
+}
+jumbotron jumbotron-fluid{
+    width: 10px;
+}
