@@ -30,3 +30,17 @@ body{
     font-size: 45px;
     
 }
+
+
+.card {
+    border: none !important;
+}
+.card img {
+    height: 13rem;
+    object-fit: cover;
+    object-position: center center;
+}
+
+body {background-color: white;}
+
+
