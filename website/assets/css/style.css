@@ -2,7 +2,7 @@ body{
     background: #BDBDBD;
 }
 .container{
-    background: url("../img/bg.jpg") repeat-x;
+    background: url("../img/bg.jpg");
     background-size: contain;
     height: 500px;
     flex-grow: 1;
@@ -27,3 +27,16 @@ body{
 jumbotron jumbotron-fluid{
     width: 10px;
 }
+
+.card {
+    border: none !important;
+}
+.card img {
+    height: 13rem;
+    object-fit: cover;
+    object-position: center center;
+}
+
+body {background-color: white;}
+
+
