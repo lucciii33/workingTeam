@@ -1,32 +1,37 @@
 body{
     background: #BDBDBD;
+   
 }
-.container{
-    background: url("../img/bg.jpg");
-    background-size: contain;
-    height: 500px;
-    flex-grow: 1;
-    padding: 0%;
+
+.container{   
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    height: 600px;
+    
+    padding-top: 45px;
 }
 .display-4{
-    margin: auto;
-    background-color: white;
+    margin:15px 0px 15px 0px;
     width: auto;
-    font-weight: bold;
+    background-color: white;
+    font-weight:bold ;
     justify-items: center;
     text-align: center;
+    font-size:100px;
+    
 }
+    
 .lead{
-    margin: auto;
-    background-color: white;
+    margin:15px 0px 15px 0px;
     width: auto;
-    font-weight: bold;
+    background-color: white;
+    font-weight:bold ;
     justify-items: center;
     text-align: center;
+    font-size: 45px;
+    
 }
-jumbotron jumbotron-fluid{
-    width: 10px;
-}
+
 
 .card {
     border: none !important;
