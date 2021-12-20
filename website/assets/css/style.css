@@ -2,13 +2,19 @@ body{
     background: #BDBDBD;
    
 }
-.container{
+
+.container{   
     background-image: url("../img/bg.jpg");
     background-size: cover;
     height: 600px;
     
     padding-top: 45px;
 }
+
+.container.portfolio-container {
+    background-image: none;
+}
+
 .display-4{
     margin:15px 0px 15px 0px;
     width: auto;
@@ -31,10 +37,10 @@ body{
     
 }
 
-
 .card {
     border: none !important;
 }
+
 .card img {
     height: 13rem;
     object-fit: cover;
