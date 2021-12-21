@@ -1,13 +1,11 @@
 body{
     background: #BDBDBD;
-   
 }
 
 .container{   
     background-image: url("../img/bg.jpg");
     background-size: cover;
     height: 600px;
-    
     padding-top: 45px;
 }
 
@@ -23,7 +21,6 @@ body{
     justify-items: center;
     text-align: center;
     font-size:100px;
-    
 }
     
 .lead{
@@ -33,8 +30,7 @@ body{
     font-weight:bold ;
     justify-items: center;
     text-align: center;
-    font-size: 45px;
-    
+    font-size: 45px; 
 }
 
 .card {
