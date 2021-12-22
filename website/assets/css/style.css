@@ -45,4 +45,21 @@ body{
 
 body {background-color: white;}
 
+/*Contact Section*/
 
+.contact-container {
+    padding: 50px;
+    margin-top: 50px;
+    text-align: start;
+}
+
+.emailbox {
+    background: rgb(247, 244, 244);
+    padding: 10px 30px; 
+    width: 50%;
+    margin: auto;
+}
+
+.button-right {
+    text-align: right;
+}
